@@ -1,4 +1,4 @@
-# Qwen2B-VL OCR Görsel Analiz (Çıktı Odaklı)
+# Qwen2B-VL OCR Görsel Analiz 
 
 ## 1) Bağlam ve Süreç
 
